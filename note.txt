@@ -1,0 +1,5 @@
+the thing to nodt in here is  the width of the slider-wraaper
+-width:500% to the image float and it will hidden all thing by overflow
+-next the slider wrapped image will have a anamation to move image in 20s
+-the anamation will move from 0% to 100% to move the image with the effect 
+from right to left; 
